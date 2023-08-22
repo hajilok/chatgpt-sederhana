@@ -52,7 +52,7 @@ export default function App() {
 <div className="flex justify-center items-center h-fit mt-10">
   <div className="avatar">
     <div className="w-24 h-24 rounded-full ring ring-primary ring-offset-base-100 ring-offset-2 flex justify-center mx-auto items-center">
-      <img src="/public/anime.jpg" className="w-full h-full rounded-full" alt="Avatar" />
+      <img src="/img/anime.jpg" className="w-full h-full rounded-full" alt="Avatar" />
     </div>
   </div>
 </div>
